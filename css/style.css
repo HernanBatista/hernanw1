@@ -45,6 +45,14 @@ body{
 .flipimg{
 	transform: scaleX(-1);
 }
+
+p:hover{
+	letter-spacing: 7px;
+    transition: 1s;
+    color: #f9f104;
+}
+p{transition: 1s;}
+
 /* modal */
 
 .btn-secondary{
